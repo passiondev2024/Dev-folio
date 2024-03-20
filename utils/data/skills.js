@@ -1,7 +1,7 @@
 export const skillsData = [
   'HTML',
   'CSS',
-  'JS',
+  'Javascript',
   'React',
   'Next JS',
   'Nuxt JS',
@@ -33,8 +33,7 @@ export const skillsData = [
   'PHP',
   'Flutter',
   'Dart',
-  'Typescript',
-  'Swift',
+  'TypeScript',
   'Git',
   'Figma',
   'Canva',
