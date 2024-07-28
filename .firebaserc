@@ -1,5 +1,9 @@
 {
   "projects": {
-    "default": "passiondev2024"
-  }
+    "default": "khoa-devfolio",
+    "hosting": "khoa-devfolio"
+  },
+  "targets": {},
+  "etags": {},
+  "dataconnectEmulatorConfig": {}
 }
