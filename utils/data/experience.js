@@ -2,25 +2,19 @@ export const experiences = [
   {
     id: 1,
     title: 'Senior Full Stack Engineer',
-    company: "Pavilion",
-    duration: "(Feb 2022 - Present)"
+    company: "Nearsure",
+    duration: "(Feb 2023 - Jul 2024)"
   },
   {
     id: 2,
-    title: "AI Software Engineer",
-    company: "Thumbtack",
-    duration: "(Jan 2020 - Dec 2023)"
+    title: "Full Stack Engineer",
+    company: "Cloudsquare",
+    duration: "(Sep 2021 - Jan 2023)"
   },
   {
     id: 3,
-    title: "Software Engineer",
-    company: "Bigglo",
-    duration: "(Jul 2018 - Dec 2019)"
-  },
-  {
-    id: 4,
     title: "Full Stack Developer",
-    company: "Seorem.az",
-    duration: "(Feb 2017 - Jun 2018)"
+    company: "FloQast",
+    duration: "(Sep 2020 - Aug 2021)"
   }
 ]

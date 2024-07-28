@@ -9,8 +9,8 @@ import './css/globals.scss';
 const inter = Inter({ subsets: ['latin'] });
 
 export const metadata = {
-  title: 'Portfolio of Kanan Ramazanov',
-  description: 'This is the portfolio of Kanan Ramazanov. I am a Senior Full Stack Engineer and a AI Software Engineer. I love to learn new things and I am always open to collaborating with others. I am a quick learner and I am always looking for new challenges.',
+  title: 'Portfolio of Khoa Nguyen',
+  description: 'This is the portfolio of Khoa Nguyen. I am a Senior Full Stack Engineer and a AI Software Engineer. I love to learn new things and I am always open to collaborating with others. I am a quick learner and I am always looking for new challenges.',
 }
 
 export default function RootLayout({ children }) {

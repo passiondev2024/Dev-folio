@@ -102,21 +102,19 @@ Eg:
 
 ```javascript
 export const personalData = {
-  name: "Kanan Ramazanov",
+  name: "Khoa Nguyen",
   profile: "/profile.png",
   designation: "Full-Stack Software Developer",
-  description: "My name is Kanan Ramazanov....",
-  email: "abusaid7388@gmail.com",
-  phone: "+8801608797655",
-  address: "Dhaka, Bangladesh",
-  github: "https://github.com/said7388",
-  facebook: "https://www.facebook.com/abusaid.riyaz/",
-  linkedIn: "https://www.linkedin.com/in/abu-said-bd/",
-  twitter: "https://twitter.com/said7388",
-  stackOverflow: "https://stackoverflow.com/users/16840768/abu-said",
+  description: "My name is Khoa Nguyen....",
+  email: "kn3494430@gmail.com",
+  phone: "+18453205072",
+  address: "2311 Effie St, Los Angeles, CA 90026",
+  github: "https://github.com/passiondev2024",
+  linkedIn: "https://www.linkedin.com/in/khoa-nguyen-426a00319/",
+  stackExchange: "https://meta.stackexchange.com/users/1482211/khoa-nguyen",
   leetcode: "https://leetcode.com/said3812/",
-  devUsername: "said7388",
-  resume: "...",
+  devUsername: "passiondev2024",
+  resume: "https://drive.google.com/file/d/1veGBLV_i9N8XjbWPuz-Hd3ALX-n2fk2D/view?usp=drive_link",
 };
 ```
 
